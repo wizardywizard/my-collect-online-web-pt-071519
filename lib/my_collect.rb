@@ -12,4 +12,3 @@ def new_method(args) --> one arg
   p yield(args) ---> block
 end
 
-new_mwethod([1, 2, 3]) {}
