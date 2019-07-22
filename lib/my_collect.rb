@@ -9,7 +9,7 @@ def my_collect(array)
   new
 end
 
-def new_method(args) --> one arg
-  p yield(args) ---> block
-end
+# def new_method(args) --> one arg
+#   p yield(args) ---> block
+# end
 
