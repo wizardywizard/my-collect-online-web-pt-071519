@@ -1,5 +1,6 @@
 def my_collect(array)
   new = []
+  
   x = 0
   while x < array.length
     new << yield(array[x])
