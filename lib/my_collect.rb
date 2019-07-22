@@ -1,6 +1,6 @@
 def my_collect(array)
   new = []
-  
+  #array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
   x = 0
   while x < array.length
     new << yield(array[x])
